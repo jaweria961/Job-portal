@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Job-portal/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Job-portal/static/js/main.f33e9cd2.chunk.js",
+    "main.js.map": "/Job-portal/static/js/main.f33e9cd2.chunk.js.map",
+    "runtime-main.js": "/Job-portal/static/js/runtime-main.376c1f43.js",
+    "runtime-main.js.map": "/Job-portal/static/js/runtime-main.376c1f43.js.map",
+    "static/js/2.8574eac1.chunk.js": "/Job-portal/static/js/2.8574eac1.chunk.js",
+    "static/js/2.8574eac1.chunk.js.map": "/Job-portal/static/js/2.8574eac1.chunk.js.map",
+    "index.html": "/Job-portal/index.html",
+    "precache-manifest.32b578c907651215eecc18b12f09b255.js": "/Job-portal/precache-manifest.32b578c907651215eecc18b12f09b255.js",
+    "service-worker.js": "/Job-portal/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Job-portal/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8574eac1.chunk.js.LICENSE.txt": "/Job-portal/static/js/2.8574eac1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.376c1f43.js",
+    "static/js/2.8574eac1.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f33e9cd2.chunk.js"
+  ]
+}
